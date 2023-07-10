@@ -1,3 +1,3 @@
 # Architecture Modern Site
-No Bootstrap 
-Project from Scratch 
+# No Bootstrap 
+# Project from Scratch 
