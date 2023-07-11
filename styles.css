@@ -86,7 +86,7 @@ body {
   cursor: pointer;
   height: 4vh;
   width: 2.2vw;
-  background-color: black;
+  background-color: transparent;
   font-size: 1.5vh;
   z-index: 5;
   opacity: 1;
